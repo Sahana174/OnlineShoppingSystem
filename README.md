@@ -27,4 +27,4 @@ This is a minimal, ready-to-run Java web project that demonstrates:
 - `shopping.sql` : SQL to create tables and sample data
 - `README.md` : this file
 
-This project is intentionally minimal and educational. For production use, add input validation, password hashing, prepared statements (already used), and proper error handling.
+
